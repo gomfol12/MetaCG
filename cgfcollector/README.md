@@ -79,7 +79,7 @@ build process of your favorite tool.
 
 An example can be found in `test/multi/fortdepend_deps`. This example uses
 fortdepend to generate a module dependency list. If your build system already
-generates such a list and executes the compiler on the files in the correct order
+generates uch a list and executes the compiler on the files in the correct order
 you probably don't need this.
 
 ## Running test
